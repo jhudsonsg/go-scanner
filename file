@@ -1,0 +1,15 @@
+inicio
+    definir a inteiro = 10
+
+    se 1 
+    entao 
+        va = 10
+    fim
+
+    enquanto 1 > 10
+    entao
+        se 1 
+            entao va = 10
+        fim
+    fim
+fim
