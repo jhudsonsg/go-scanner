@@ -1,5 +1,5 @@
 # go-scanner
-go-scanner é um analisador léxico escrito totalmente em portugês e na linguagem Go feito com o propósito didático e acadêmicos para facilitar
+go-scanner é um analisador léxico escrito totalmente em português e na linguagem Go feito com o propósito didático e acadêmicos para facilitar
 a leitura e o entendimento de como um analisador léxico funciona.
 
 ## Usando
